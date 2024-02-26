@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FeverEclipse
 - 👀 I’m interested in everything code!
-- 🌱 I’m currently learning JavaScript/React!
+- 🌱 I’m currently learning Neural Networks!
 - 📫 How to reach me  --> menevseeyup@gmail.com
 
 <!---
